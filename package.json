@@ -1,0 +1,28 @@
+{
+  "name": "christian-astrology",
+  "version": "1.0.0",
+  "private": true,
+  "description": "christianastrology.org \u2014 community board, readings, Printify store, Stripe memberships. English / Espa\u00f1ol / Portugu\u00eas.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning server.js",
+    "dev": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning --watch server.js",
+    "smoke": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/smoke.js",
+    "check": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/check.js",
+    "i18n": "node --disable-warning=ExperimentalWarning scripts/i18n-keys.js && node --disable-warning=ExperimentalWarning scripts/i18n-readings.js status",
+    "backup": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/backup.js",
+    "confirm-email": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/confirm-email.js",
+    "test:payments": "node --disable-warning=ExperimentalWarning scripts/payments-test.js",
+    "crawl": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/crawl.js",
+    "test": "npm run smoke && npm run test:payments && npm run crawl && npm run test:deploy",
+    "test:deploy": "node scripts/deploy-test.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemailer": "^7.0.13",
+    "stripe": "^23.0.0"
+  }
+}

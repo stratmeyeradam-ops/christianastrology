@@ -1,0 +1,290 @@
+[
+ {
+  "slug": "prayer-language",
+  "title": "What Is Your Spiritual Prayer Language?",
+  "intro": "Five questions on how you genuinely meet God in your daily life — beyond expectations or formalities.",
+  "tier": 1,
+  "questions": [
+   {
+    "prompt": "When something heavy lands on you, your first instinct is to…",
+    "options": [
+     {
+      "text": "Go quiet and sit with it before the Lord",
+      "key": "contemplative"
+     },
+     {
+      "text": "Reach out to your prayer circle or intercede for others",
+      "key": "intercessory"
+     },
+     {
+      "text": "Open Scripture and study for biblical precedent",
+      "key": "scriptural"
+     },
+     {
+      "text": "Express it out loud to God, raw and unfiltered",
+      "key": "expressive"
+     }
+    ]
+   },
+   {
+    "prompt": "Your most authentic moments of prayer happen…",
+    "options": [
+     {
+      "text": "In quiet stillness, without needing words",
+      "key": "contemplative"
+     },
+     {
+      "text": "While holding the burdens of friends and family",
+      "key": "intercessory"
+     },
+     {
+      "text": "With a journal and Bible open side-by-side",
+      "key": "scriptural"
+     },
+     {
+      "text": "In the car or during worship, singing and praying aloud",
+      "key": "expressive"
+     }
+    ]
+   },
+   {
+    "prompt": "A worship or church gathering touches you most deeply when…",
+    "options": [
+     {
+      "text": "There is unhurried space for silent reflection",
+      "key": "contemplative"
+     },
+     {
+      "text": "The community unites in fervent group intercession",
+      "key": "intercessory"
+     },
+     {
+      "text": "The biblical exposition is rich, historical, and deep",
+      "key": "scriptural"
+     },
+     {
+      "text": "The music and atmosphere lift burdens from your heart",
+      "key": "expressive"
+     }
+    ]
+   },
+   {
+    "prompt": "You feel the closest presence of God when you…",
+    "options": [
+     {
+      "text": "Are alone in nature observing the stars and sky",
+      "key": "contemplative"
+     },
+     {
+      "text": "Have just comforted someone in distress",
+      "key": "intercessory"
+     },
+     {
+      "text": "Finally illuminate the deeper meaning of a passage",
+      "key": "scriptural"
+     },
+     {
+      "text": "Are deeply moved by beauty, gratitude, or praise",
+      "key": "expressive"
+     }
+    ]
+   },
+   {
+    "prompt": "The short prayer that resonates most with your heart is…",
+    "options": [
+     {
+      "text": "“Speak, Lord, for Your servant hears.”",
+      "key": "contemplative"
+     },
+     {
+      "text": "“Lord, remember them and heal their wounds.”",
+      "key": "intercessory"
+     },
+     {
+      "text": "“Open my eyes that I may behold wondrous things.”",
+      "key": "scriptural"
+     },
+     {
+      "text": "“Create in me a clean heart, O God!”",
+      "key": "expressive"
+     }
+    ]
+   }
+  ],
+  "results": {
+   "contemplative": {
+    "title": "The Contemplative Heart",
+    "body": "You meet God best in quiet solitude. Like Elijah on Mount Horeb, you recognize that the Lord speaks not merely in the thunder, but in the still, small whisper. Your quiet stillness is a sacred gift."
+   },
+   "intercessory": {
+    "title": "The Faithful Intercessor",
+    "body": "You carry people with deep maternal and spiritual devotion. 'Bear one another’s burdens' (Galatians 6:2) is your natural rhythm. Your prayers are shields for your family and community."
+   },
+   "scriptural": {
+    "title": "The Berean Scholar",
+    "body": "You encounter God through His Living Word. Like Mary sitting attentively at Jesus' feet, you prize understanding, theological depth, and the historical truth of the Mazzaroth."
+   },
+   "expressive": {
+    "title": "The Psalmist",
+    "body": "You worship with your whole being—in tears, song, and joyful praise. Like King David, your emotional honesty before God is a reflection of profound faith and vibrant vitality."
+   }
+  }
+ },
+ {
+  "slug": "saturn-patience",
+  "title": "Where Is God Building Spiritual Patience In You?",
+  "intro": "A gentle biblical reflection on the areas of life currently undergoing slow, enduring construction.",
+  "tier": 2,
+  "questions": [
+   {
+    "prompt": "The delay that tests your faith most right now is related to…",
+    "options": [
+     {
+      "text": "A vocational calling or project not yet realized",
+      "key": "vocation"
+     },
+     {
+      "text": "A relationship or healing needed under your roof",
+      "key": "family"
+     },
+     {
+      "text": "Personal physical strength, health, or energy",
+      "key": "body"
+     },
+     {
+      "text": "A long-standing prayer you have waited years to see answered",
+      "key": "waiting"
+     }
+    ]
+   },
+   {
+    "prompt": "Looking ahead five years, the milestone you most yearn for is…",
+    "options": [
+     {
+      "text": "Clarity and fulfillment in your divine purpose",
+      "key": "vocation"
+     },
+     {
+      "text": "Peace and generational harmony in your household",
+      "key": "family"
+     },
+     {
+      "text": "Renewed physical vitality and balanced wellness",
+      "key": "body"
+     },
+     {
+      "text": "Witnessing God's promised breakthrough come to pass",
+      "key": "waiting"
+     }
+    ]
+   },
+   {
+    "prompt": "When you feel spiritually tested, you remind yourself that…",
+    "options": [
+     {
+      "text": "Joseph waited 13 years between the dream and the throne",
+      "key": "vocation"
+     },
+     {
+      "text": "Love suffers long and is always kind",
+      "key": "family"
+     },
+     {
+      "text": "God's strength is made perfect in human weakness",
+      "key": "body"
+     },
+     {
+      "text": "The Lord is not slow in keeping His promises",
+      "key": "waiting"
+     }
+    ]
+   }
+  ],
+  "results": {
+   "vocation": {
+    "title": "Patience in Divine Calling",
+    "body": "God is establishing a deep foundation in your life's work. What seems like a delay is divine preparation, ensuring you have the wisdom and character to sustain future fruitfulness."
+   },
+   "family": {
+    "title": "Patience in the Household",
+    "body": "Your home is your primary ministry. What is built with patience and prayer over seasons will endure for generations."
+   },
+   "body": {
+    "title": "Patience with the Physical Frame",
+    "body": "Give yourself grace. God honors your faithful perseverance through physical limitations, refining your dependence on His daily sustaining breath."
+   },
+   "waiting": {
+    "title": "The Unwavering Promise",
+    "body": "Do not stop believing. In God's perfect timing, what has been watered with faithful tears will blossom into testimony."
+   }
+  }
+ },
+ {
+  "slug": "venus-treasure",
+  "title": "What Do You Truly Treasure?",
+  "intro": "Discover what your heart cherishes most: 'Where your treasure is, there will your heart be also' (Matthew 6:21).",
+  "tier": 2,
+  "questions": [
+   {
+    "prompt": "A restorative afternoon for your soul includes…",
+    "options": [
+     {
+      "text": "Total tranquility without conflict or noise",
+      "key": "peace"
+     },
+     {
+      "text": "Arranging your home or admiring radiant art and gardens",
+      "key": "beauty"
+     },
+     {
+      "text": "Preparing a blessing or meal for someone in need",
+      "key": "service"
+     },
+     {
+      "text": "Deep, uninterrupted conversation with a cherished loved one",
+      "key": "devotion"
+     }
+    ]
+   },
+   {
+    "prompt": "You feel most appreciated when others notice…",
+    "options": [
+     {
+      "text": "The calming, peaceful spirit you bring to the space",
+      "key": "peace"
+     },
+     {
+      "text": "The beauty, order, and care you have created",
+      "key": "beauty"
+     },
+     {
+      "text": "The tireless acts of service you quietly performed",
+      "key": "service"
+     },
+     {
+      "text": "Your unwavering loyalty and steadfast love",
+      "key": "devotion"
+     }
+    ]
+   }
+  ],
+  "results": {
+   "peace": {
+    "title": "You Treasure God's Peace",
+    "body": "You bring reconciliation and serenity wherever you go. Blessed are the peacemakers, for they reflect the heart of the Prince of Peace."
+   },
+   "beauty": {
+    "title": "You Treasure Sacred Beauty",
+    "body": "You recognize God's signature in symmetry, nature, and light. Your aesthetic eye is a liturgical gift that draws others toward worship."
+   },
+   "service": {
+    "title": "You Treasure Faithful Service",
+    "body": "You love through concrete acts of kindness, hospitality, and care. Your hands are the hands of Christ in everyday life."
+   },
+   "devotion": {
+    "title": "You Treasure Covenant Loyalty",
+    "body": "You value authentic, singular devotion. You love deeply, mirroring the unfailing covenant love of the Lord."
+   }
+  }
+ }
+]

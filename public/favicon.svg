@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Christian Astrology">
+  <rect width="64" height="64" rx="14" fill="#1e1b4b"/>
+  <circle cx="32" cy="28" r="10" fill="none" stroke="#fbbf24" stroke-width="2.5"/>
+  <path d="M32 14v28M22 28h20" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="14" cy="48" r="1.5" fill="#c4b5fd"/>
+  <circle cx="48" cy="12" r="1.2" fill="#c4b5fd"/>
+  <circle cx="52" cy="44" r="1.8" fill="#fbbf24"/>
+</svg>

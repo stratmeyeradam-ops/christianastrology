@@ -1,0 +1,22 @@
+[Unit]
+Description=Christian Astrology (Node.js)
+After=network.target
+
+[Service]
+Type=simple
+User=christ
+Group=christ
+WorkingDirectory=/var/www/christianastrology
+Environment=NODE_ENV=production
+ExecStart=/usr/bin/node --env-file=.env --disable-warning=ExperimentalWarning server.js
+Restart=always
+RestartSec=3
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+ReadWritePaths=/var/www/christianastrology/data
+
+[Install]
+WantedBy=multi-user.target

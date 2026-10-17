@@ -1,0 +1,88 @@
+{
+  "prayer-language": {
+    "title": "¿Cuál es tu lenguaje espiritual de oración?",
+    "intro": "Cinco preguntas sobre cómo te encuentras de verdad con Dios en tu vida diaria, más allá de expectativas o formalidades.",
+    "questions": [
+      { "prompt": "Cuando algo pesado cae sobre ti, tu primer impulso es…", "options": [
+        { "text": "Guardar silencio y quedarte con ello delante del Señor", "key": "contemplative" },
+        { "text": "Acudir a tu grupo de oración o interceder por otros", "key": "intercessory" },
+        { "text": "Abrir la Escritura y buscar un precedente bíblico", "key": "scriptural" },
+        { "text": "Decírselo a Dios en voz alta, tal como es", "key": "expressive" } ] },
+      { "prompt": "Tus momentos de oración más auténticos ocurren…", "options": [
+        { "text": "En la quietud, sin necesidad de palabras", "key": "contemplative" },
+        { "text": "Mientras cargas con las preocupaciones de amigos y familia", "key": "intercessory" },
+        { "text": "Con un diario y la Biblia abiertos uno junto al otro", "key": "scriptural" },
+        { "text": "En el coche o en la alabanza, cantando y orando en voz alta", "key": "expressive" } ] },
+      { "prompt": "Un culto o reunión de la iglesia te toca más profundamente cuando…", "options": [
+        { "text": "Hay espacio sin prisa para la reflexión en silencio", "key": "contemplative" },
+        { "text": "La comunidad se une en una intercesión ferviente", "key": "intercessory" },
+        { "text": "La exposición bíblica es rica, histórica y profunda", "key": "scriptural" },
+        { "text": "La música y el ambiente quitan cargas de tu corazón", "key": "expressive" } ] },
+      { "prompt": "Sientes más cerca la presencia de Dios cuando…", "options": [
+        { "text": "Estás a solas en la naturaleza mirando las estrellas y el cielo", "key": "contemplative" },
+        { "text": "Acabas de consolar a alguien que sufre", "key": "intercessory" },
+        { "text": "Por fin comprendes el sentido profundo de un pasaje", "key": "scriptural" },
+        { "text": "Te conmueven la belleza, la gratitud o la alabanza", "key": "expressive" } ] },
+      { "prompt": "La oración breve que más resuena en tu corazón es…", "options": [
+        { "text": "«Habla, Señor, que tu siervo oye».", "key": "contemplative" },
+        { "text": "«Señor, acuérdate de ellos y sana sus heridas».", "key": "intercessory" },
+        { "text": "«Abre mis ojos, y miraré las maravillas de tu ley».", "key": "scriptural" },
+        { "text": "«Crea en mí, oh Dios, un corazón limpio».", "key": "expressive" } ] }
+    ],
+    "results": {
+      "contemplative": { "title": "El corazón contemplativo", "body": "Te encuentras mejor con Dios en la soledad serena. Como Elías en el monte Horeb, reconoces que el Señor no habla solo en el trueno, sino en el silbo apacible y delicado. Tu quietud es un don sagrado." },
+      "intercessory": { "title": "El intercesor fiel", "body": "Llevas a las personas con una profunda devoción espiritual. «Sobrellevad los unos las cargas de los otros» (Gálatas 6:2) es tu ritmo natural. Tus oraciones son escudo para tu familia y tu comunidad." },
+      "scriptural": { "title": "El estudioso de Berea", "body": "Te encuentras con Dios a través de su Palabra viva. Como María, sentada atenta a los pies de Jesús, valoras la comprensión, la profundidad teológica y la verdad histórica del Mazzaroth." },
+      "expressive": { "title": "El salmista", "body": "Adoras con todo tu ser: con lágrimas, cantos y alabanza gozosa. Como el rey David, tu honestidad emocional delante de Dios refleja una fe profunda y una vitalidad vibrante." }
+    }
+  },
+  "saturn-patience": {
+    "title": "¿Dónde está Dios formando paciencia espiritual en ti?",
+    "intro": "Una suave reflexión bíblica sobre las áreas de tu vida que hoy están en construcción lenta y duradera.",
+    "questions": [
+      { "prompt": "La espera que más prueba tu fe ahora mismo tiene que ver con…", "options": [
+        { "text": "Un llamado vocacional o un proyecto aún no realizado", "key": "vocation" },
+        { "text": "Una relación o una sanidad que tu hogar necesita", "key": "family" },
+        { "text": "Tu fuerza física, tu salud o tu energía", "key": "body" },
+        { "text": "Una oración que llevas años esperando ver contestada", "key": "waiting" } ] },
+      { "prompt": "Pensando en los próximos cinco años, lo que más anhelas es…", "options": [
+        { "text": "Claridad y plenitud en tu propósito divino", "key": "vocation" },
+        { "text": "Paz y armonía entre generaciones en tu hogar", "key": "family" },
+        { "text": "Vitalidad física renovada y un bienestar equilibrado", "key": "body" },
+        { "text": "Ver cumplirse el avance que Dios te prometió", "key": "waiting" } ] },
+      { "prompt": "Cuando te sientes probado espiritualmente, te recuerdas que…", "options": [
+        { "text": "José esperó 13 años entre el sueño y el trono", "key": "vocation" },
+        { "text": "El amor es sufrido y siempre benigno", "key": "family" },
+        { "text": "El poder de Dios se perfecciona en la debilidad", "key": "body" },
+        { "text": "El Señor no tarda su promesa", "key": "waiting" } ] }
+    ],
+    "results": {
+      "vocation": { "title": "Paciencia en el llamado divino", "body": "Dios está poniendo un cimiento profundo en la obra de tu vida. Lo que parece un retraso es preparación divina, para que tengas la sabiduría y el carácter que sostendrán el fruto futuro." },
+      "family": { "title": "Paciencia en el hogar", "body": "Tu hogar es tu primer ministerio. Lo que se edifica con paciencia y oración a lo largo de las estaciones permanecerá por generaciones." },
+      "body": { "title": "Paciencia con el cuerpo", "body": "Trátate con gracia. Dios honra tu fiel perseverancia en medio de las limitaciones físicas y afina tu dependencia de su aliento, que te sostiene cada día." },
+      "waiting": { "title": "La promesa inquebrantable", "body": "No dejes de creer. En el tiempo perfecto de Dios, lo que has regado con lágrimas fieles florecerá en testimonio." }
+    }
+  },
+  "venus-treasure": {
+    "title": "¿Qué es lo que de verdad atesoras?",
+    "intro": "Descubre lo que tu corazón más aprecia: «Donde estuviere vuestro tesoro, allí estará vuestro corazón» (Mateo 6:21).",
+    "questions": [
+      { "prompt": "Una tarde que restaura tu alma incluye…", "options": [
+        { "text": "Tranquilidad total, sin conflictos ni ruido", "key": "peace" },
+        { "text": "Ordenar tu casa o admirar arte y jardines radiantes", "key": "beauty" },
+        { "text": "Preparar una bendición o una comida para alguien que lo necesita", "key": "service" },
+        { "text": "Una conversación profunda y sin interrupciones con un ser querido", "key": "devotion" } ] },
+      { "prompt": "Te sientes más valorado cuando los demás notan…", "options": [
+        { "text": "El espíritu sereno y apacible que traes al lugar", "key": "peace" },
+        { "text": "La belleza, el orden y el cuidado que has creado", "key": "beauty" },
+        { "text": "Los incansables actos de servicio que hiciste en silencio", "key": "service" },
+        { "text": "Tu lealtad inquebrantable y tu amor constante", "key": "devotion" } ] }
+    ],
+    "results": {
+      "peace": { "title": "Atesoras la paz de Dios", "body": "Llevas reconciliación y serenidad a donde vas. Bienaventurados los pacificadores, porque reflejan el corazón del Príncipe de paz." },
+      "beauty": { "title": "Atesoras la belleza sagrada", "body": "Reconoces la firma de Dios en la armonía, la naturaleza y la luz. Tu sensibilidad estética es un don litúrgico que acerca a otros a la adoración." },
+      "service": { "title": "Atesoras el servicio fiel", "body": "Amas con actos concretos de bondad, hospitalidad y cuidado. Tus manos son las manos de Cristo en la vida cotidiana." },
+      "devotion": { "title": "Atesoras la lealtad del pacto", "body": "Valoras una devoción auténtica y entera. Amas profundamente, reflejando el amor fiel del pacto del Señor." }
+    }
+  }
+}

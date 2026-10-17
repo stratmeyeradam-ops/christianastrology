@@ -1,0 +1,15 @@
+{
+  "plans": {
+    "pilgrim": "https://buy.stripe.com/cNi28q51Zffrerjcza0kE04",
+    "devoted": "https://buy.stripe.com/14A8wOcur4ANab356I0kE05",
+    "saint": "https://buy.stripe.com/dRm00i2TRgjv82V42E0kE06"
+  },
+  "store": {
+    "6ad1006402e855b98e011e44": "https://buy.stripe.com/5kQ28q0LJ3wJ0At0Qs0kE07",
+    "6ad100608c4e0d4bc2007158": "https://buy.stripe.com/7sY4gy51Z9V70At7eQ0kE08",
+    "6ad1005d9f29f0270501ace4": "https://buy.stripe.com/eVq6oG663ebn82VeHi0kE09",
+    "6ad1005902e855b98e011e3a": "https://buy.stripe.com/5kQbJ08eb2sF5UN7eQ0kE0a",
+    "6ad100579f29f0270501acdb": "https://buy.stripe.com/00w4gy663ebn6YRdDe0kE0b",
+    "6ad100528c4e0d4bc2007144": "https://buy.stripe.com/eVq4gy8ebffr0AtgPq0kE0c"
+  }
+}
