@@ -7,3 +7,9 @@ data/backups/
 *.log
 data/i18n/readings-source.json
 deploy/env.add
+*.env
+deploy/*.env
+.npm/
+.grok/
+*.db
+*.sqlite
